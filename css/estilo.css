@@ -18,7 +18,15 @@
         text-align: center;
     }
 
-/*Seletores de classe*/
+    #cabecalho{
+        background-image: url("../img/img-01-banner-1280×640.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        background-size: cover;
+    }
+
+    /*Seletores de classe*/
 .link {
     border: 2px solid #ff0000;
     display: inline-block;
@@ -33,7 +41,7 @@
     }
 }
 
-.link a {
+    a {
     display: inline-block;
     text-decoration: none;
     color: #000;
