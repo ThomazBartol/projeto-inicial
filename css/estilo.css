@@ -1,0 +1,51 @@
+/*Vamos começar a usar CSS!!!*/
+
+/*Anatomia de uma regra CSS
+    
+    Seletor{
+        Propriedade: Valor;
+    }
+*/
+
+/*Exemplo de uma regra CSS*/
+
+/*Exemplos de seletores*/
+
+/*Seletores de tipo*/
+
+    h1{
+        color: #ff0000;
+        text-align: center;
+    }
+
+/*Seletores de classe*/
+.link {
+    border: 2px solid #ff0000;
+    display: inline-block;
+    margin: 0 2%;
+    background-color: rgba(255, 00, 00, 0.200);
+    padding: 5px 5px;
+    width: 15%;
+    transition: all 0.4s ease-out;
+
+    &:hover{
+        background-color: rgba(255, 0, 0, 0.500);
+    }
+}
+
+.link a {
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+    
+    img{
+        display: inline-block;
+        width: 25%;
+    }
+}
+
+/*Seletores de ID*/
+#menu ul{
+    list-style-type: none;
+    text-align: center;
+}
