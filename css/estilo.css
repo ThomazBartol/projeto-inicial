@@ -37,6 +37,10 @@ nav{
 
 /*Seletores de classe*/
 
+#container {
+    padding: 20px;
+}
+
 .link {
     border: 2px solid #ff0000;
     display: inline-block;
@@ -67,3 +71,4 @@ nav{
     list-style-type: none;
     text-align: center;
 }
+
