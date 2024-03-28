@@ -24,15 +24,21 @@ h2{
 }
 
 p{
-    color:rgb(90, 200, 100)
+    color:rgb(90, 200, 100);
+}
+
+#projeto{
+    color: rgb(90, 200, 100);
 }
 
 #cabecalho{
-    background-image: url("../img/img-01-banner-1280×640.png");
+    background-image: url(../img/img-01-banner-1280×640.png);
+    background-color: rgb(40, 0, 255);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    background-size: cover;
+    background-size: 1500px;
+    
 }
 
 nav{
