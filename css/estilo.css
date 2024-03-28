@@ -39,6 +39,9 @@ nav{
     font-weight: bold;
 }   
 
+footer{
+    border-top: 2px solid rgb(255,0,0);
+}
 /*Seletores de classe*/
 
 #container {
