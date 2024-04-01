@@ -42,6 +42,11 @@ form ul{
     list-style-type: none;
 }
 
+#botoes input{
+    background-color: rgb(37, 136, 182);
+    color: white;
+}
+
 #contato{
     text-align: center;
 }
