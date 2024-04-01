@@ -33,6 +33,19 @@ form{
     padding: 10px;
 }
 
+form ul{
+    padding: 10px;
+}
+
+.info{
+    padding: 10px;
+    list-style-type: none;
+}
+
+#contato{
+    text-align: center;
+}
+
 #projeto{
     color: rgb(90, 200, 100);
 }
